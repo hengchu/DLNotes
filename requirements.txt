@@ -1,3 +1,5 @@
 python-mnist
 jupyter
 matplotlib
+scipy
+sklearn
