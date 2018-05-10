@@ -1,3 +1,5 @@
+# Taken from here: https://github.com/LargePanda/Information-Bottleneck-for-Deep-Learning/blob/master/mi_tool.py
+
 import numpy as np
 from collections import Counter
 import math
